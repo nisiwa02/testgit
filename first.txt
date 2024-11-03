@@ -3,3 +3,4 @@
 さらに
 テスト
 
+git status
